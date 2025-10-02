@@ -1,0 +1,9 @@
+{
+  "scene_dialogue_count": 1070,
+  "book_dialogue_count": 1183,
+  "scenes_with_dialogue": 397,
+  "avg_similarity_percent": 80.89,
+  "avg_vote_rate": 100.0,
+  "num_scenes_over_80pct": 206,
+  "num_scenes_exact": 196
+}

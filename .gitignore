@@ -41,23 +41,23 @@ coverage/
 htmlcov/
 *.cov
 
-# ------------------------------
-# Project-specific
-# ------------------------------
-data/
-output/
-outputs/
-*.txt~
-*.docx
-*.json
-*.csv
-*.png
+# # ------------------------------
+# # Project-specific
+# # ------------------------------
+# data/
+# output/
+# outputs/
+# *.txt~
+# *.docx
+# *.json
+# *.csv
+# *.png
 
-# Zootopia dataset artifacts
-Zootopia.txt
-Zootopia.docx
-output/Zootopia_*
-outputs/*
+# # Zootopia dataset artifacts
+# Zootopia.txt
+# Zootopia.docx
+# output/Zootopia_*
+# outputs/*
 
 # ------------------------------
 # IDE / Editor

@@ -1,0 +1,3 @@
+agg_sbert: 10.66s
+hamming:   1.86s
+levenshtein: 2.17s

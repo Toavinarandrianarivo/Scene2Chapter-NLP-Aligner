@@ -1,0 +1,1497 @@
+S: AUTO_SCENE_1
+S: AUTO_SCENE_2
+D: s voice rang out loud and clear.
+S: AUTO_SCENE_3
+D: Suddenly, a jaguar leapt on her from the shadows!
+D: Judy screamed as she crumpled￼ under the attack.
+S: AUTO_SCENE_4
+D: Back then, the world was divided in two: vicious￼ predator or meek￼ prey.
+D: But over time, we evolved and moved beyond our primitive, savage ways.
+S: AUTO_SCENE_5
+D: Now predator and prey live in harmony.
+D: And every young mammal has multitudinous opportunities,
+D: Yeah. I don
+S: AUTO_SCENE_6
+D: Instead, I can be an astronaut.
+D: I don
+D: said the jaguar, showing a business suit under his robe.
+D: m gonna be an actuary￼!
+D: And no longer do I have to blindly serve the almighty carrot,
+S: AUTO_SCENE_7
+D: Judy ripped off her robe and stood in a blue uniform￼.
+D: In the audience, a nasty fox kid named Gideon Grey snickered to his two friends.
+S: AUTO_SCENE_8
+D: It may seem impossible… to small minds,
+D: I
+D: Judy snapped her fingers and a backdrop showing a bright city skyline unrolled behind her.
+S: AUTO_SCENE_9
+D: Judy proudly bowed￼, as if she had just given the performance of her life. Dutiful applause came from the audience, including her parents, Bonnie and Stu Hopps. Moments later, Judy, still wearing her police costume, excitedly exited the barn with her parents. Outside, the Carrot Days Festival was in full swing as everyone enjoyed booths, games, and rides.
+S: AUTO_SCENE_10
+D: Stu asked.
+D: Judy answered.
+D: ll tell ya how,
+D: t heard Judy.
+S: AUTO_SCENE_11
+D: That
+D: s the beauty of complacency￼, Jude. If you don
+D: ll never fail,
+D: I like trying, actually,
+S: AUTO_SCENE_12
+D: What your father means, hon… it
+D: s never been a bunny cop,
+D: I guess I
+D: said Judy as she parkoured￼ against a fence.
+D: m gonna make the world a better place.
+D: Or… heck, you wanna talk about making the world a better place—no better way to do it than becoming a carrot farmer,
+D: Yes! Your dad and me and your two hundred seventy-five brothers and sisters—we
+S: AUTO_SCENE_13
+D: Amen to that. Carrot farming is a noble profession,
+S: AUTO_SCENE_14
+D: Bonnie asked Judy.
+D: s great to have dreams.
+D: Yeah, just as long as you don
+D: Stu continued as he looked around for his daughter.
+S: AUTO_SCENE_15
+D: Give me your tickets right now, or I
+D: said Gideon, before giving the kid a shove. Then he took the sheep
+D: Baa-baa,
+D: What
+S: AUTO_SCENE_16
+D: yelped the sheep.
+D: said Judy firmly.
+S: AUTO_SCENE_17
+D: Gideon looked at Judy and laughed.
+D: he snarled.
+D: s tickets,
+S: AUTO_SCENE_18
+D: Come get
+D: cause I
+D: m pretty sure it
+D: whispered one of Gideon
+D: Don
+S: AUTO_SCENE_19
+D: You don
+D: said Judy. Gideon shoved Judy so hard that she fell to the ground with a thud. Judy
+D: You scared now?
+S: AUTO_SCENE_20
+D: Look at her nose twitch,
+D: She is scared!
+D: Cry, little baby bunny. Cry, cry—
+S: AUTO_SCENE_21
+D: Oh, you don
+S: AUTO_SCENE_22
+D: I want you to remember this moment,
+D: anytime you think you
+D: Gideon and his pals walked away, laughing, leaving Judy in the dirt. She got up,wiped the blood off her cheek, and glared￼ at their backs.
+D: said Gareth, a sheep.
+S: AUTO_SCENE_23
+D: asked Sharla, the sheep the bullies had taken the tickets from. Judy took a breath and pulled something out of her front pocket, smiling wide.
+D: she said, returning the tickets that Gideon had stolen.
+S: AUTO_SCENE_24
+D: said Sharla.
+D: re awesome, Judy!
+D: That Gideon Grey doesn
+D: s talking about,
+S: AUTO_SCENE_25
+D: Well, he was right about one thing: I don
+S: AUTO_SCENE_26
+S: AUTO_SCENE_27
+S: AUTO_SCENE_28
+D: As mayor of Zootopia, I am proud to announce that my Mammal Inclusion Initiative has produced its first police academy graduate.The valedictorian￼ of her class… ZPD
+D: the mayor said to a small sheep standing nearby.
+S: AUTO_SCENE_29
+D: said Bellwether.
+D: Lionheart said. Judy walked across the stage to the sound of deafening applause—the loudest coming from her parents, even as Stu sobbed. Mayor Lionheart handed Judy her diploma while Bellwether stepped forward and pinned her ZPD badge onto her uniform.
+D: t let you down. This has been my dream since I was a kid,
+S: AUTO_SCENE_30
+D: It
+D: Bellwether whispered.
+D: said Lionheart, smiling broadly.
+S: AUTO_SCENE_31
+D: A photographer posed Judy with Mayor Lionheart and Bellwether. But Lionheart edged￼ Bellwether out of the photo. Days later, Judy
+D: We
+D: said Bonnie.
+S: AUTO_SCENE_32
+D: said Stu.
+D: s a proud-scared combo￼. I mean, Zootopia. It
+D: ve been working for this my whole life,
+D: We know,
+S: AUTO_SCENE_33
+D: And we
+D: The only thing we have to fear is fear itself,
+D: said Judy.
+D: said Stu.
+S: AUTO_SCENE_34
+D: … weasels…,
+D: You play cribbage with a weasel,
+D: And he cheats like there
+D: s full of
+S: AUTO_SCENE_35
+D: It
+D: said Judy.
+S: AUTO_SCENE_36
+D: said Stu.
+D: He held out a bag.
+S: AUTO_SCENE_37
+D: This is fox repellent￼,
+D: Yeah, that
+D: said Bonnie.
+D: Stu said, pointing at something that looked like an air horn.
+D: s all she needs,
+S: AUTO_SCENE_38
+D: Check this out!
+D: Oh, for goodness
+S: AUTO_SCENE_39
+D: asked Stu.
+D: said Judy. She grabbed the pink can of fox repellent as the train approached.
+S: AUTO_SCENE_40
+D: Stu exclaimed.
+D: called the conductor.
+S: AUTO_SCENE_41
+S: AUTO_SCENE_42
+D: I love you guys,
+D: Love you, too!
+S: AUTO_SCENE_43
+D: Cripes, here come the waterworks￼,
+D: Ahhahoho jeesh…
+D: Oh, Stu, pull it together,
+S: AUTO_SCENE_44
+S: AUTO_SCENE_45
+S: AUTO_SCENE_46
+D: Welcome to the Grand Pangolin Arms,
+D: Complimentary￼ delousing once a month. Don
+D: Kudu and Oryx, Judy
+S: AUTO_SCENE_47
+D: Oh, hi, I
+D: re loud,
+D: Don
+S: AUTO_SCENE_48
+D: Greasy walls… rickety bed…,
+D: Shut up!
+D: You shut up!
+S: AUTO_SCENE_49
+D: Judy flopped onto the bed with a big smile.
+S: AUTO_SCENE_50
+S: AUTO_SCENE_51
+S: AUTO_SCENE_52
+D: t see her because she was shorter than the desk.
+D: Judy called up to the desk.
+S: AUTO_SCENE_53
+D: The cheetah leaned over the desk and saw Judy standing there in her uniform.
+S: AUTO_SCENE_54
+D: They really did hire a bunny. What! I gotta tell you; you are even cuter than I thought you
+D: Judy winced￼.
+D: m sure you didn
+D: cute
+D: s a little—
+S: AUTO_SCENE_55
+D: he said apologetically.
+D: s okay. Oh, um, actually you
+D: Judy stammered as she tried to figure out how to say it.
+D: s a—in your neck—the fold… there
+D: Clawhauser removed a small donut from under a roll of neck fat.
+S: AUTO_SCENE_56
+D: said Clawhauser to the donut.Then he joyfully crammed￼ it into his mouth.
+D: Judy asked.
+S: AUTO_SCENE_57
+D: Bullpen
+D: Judy said, and hurried off.
+D: s gonna get eaten alive,
+S: AUTO_SCENE_58
+D: Hey. Officer Hopps,
+D: You ready to make the world a better place?
+S: AUTO_SCENE_59
+D: TEN-HUT!
+S: AUTO_SCENE_60
+D: said Bogo.
+D: ve got three items on the docket. First, we need to acknowledge the elephant in the room.
+D: Francine, happy birthday.
+D: Number two:there are some new recruits￼ with us I should introduce. But I
+D: t care.
+S: AUTO_SCENE_61
+D: Finally, we have fourteen missing mammal cases,
+D: FOURTEEN CASES. Now, that
+D: ve ever had, and City Hall is right up my tail to solve them. This is priority￼ one. Assignments!
+S: AUTO_SCENE_62
+D: Judy sat up, she
+S: AUTO_SCENE_63
+D: asked Judy quietly. She hurried after Bogo.
+S: AUTO_SCENE_64
+D: Bogo looked around and saw no one until he looked down to see Judy at his ankles.
+S: AUTO_SCENE_65
+D: t care.
+D: Sir, I
+D: said Bogo, walking out and slamming the door behind him.
+D: said Judy, stomping her foot. She turned toward the closed door and shouted,
+D: m gonna write two hundred tickets! Before noon!
+S: AUTO_SCENE_66
+D: s ears twisted and turned as she used her excellent hearing skills to listen for expired￼ parking meters￼. Each time one dinged￼, she dashed over and wrote a ticket. She ticketed dozens of cars of every size—moose cars, mouse cars, and everything in between.
+S: AUTO_SCENE_67
+D: she said proudly. She turned to see her traffic cart parked at an expired meter.
+D: she said with a self-satisfied smile as she wrote herself a ticket. Then the sound of a car horn and an angry sheep yelling out his window interrupted her moment.
+S: AUTO_SCENE_68
+D: the sheep yelled. Judy saw a red fox across the street and eyed him suspiciously￼. Then she shook her head and scolded herself for being suspicious without a real reason. But when she saw him look around before slinking into Jumbeaux
+S: AUTO_SCENE_69
+S: AUTO_SCENE_70
+D: Listen, I don
+D: re doing skulking￼ around during daylight hours, but I don
+D: m not looking for any trouble either, sir, I simply want to buy a Jumbo-pop￼,
+D: for my little boy. You want the red or the blue, pal?
+S: AUTO_SCENE_71
+D: I
+D: Judy muttered to herself as she turned to leave.
+D: t any fox ice cream joints in your part of town?
+D: There are. It
+D: The fox tousled￼ the boy
+S: AUTO_SCENE_72
+D: This goofy little stinker—he loves all things elephant. Wants to be one when he grows up. Who the heck am I to crush the little guy
+S: AUTO_SCENE_73
+D: Look, you probably can
+D: —Jerry pointed to the sign as he read it slowly—
+D: re holding up the line,
+S: AUTO_SCENE_74
+D: Hello? Excuse me?
+D: You
+D: said Jerry.
+S: AUTO_SCENE_75
+D: re getting snot￼ and mucous￼ with their cookies and cream?
+D: What are you talking about?
+D: Well, I don
+S: AUTO_SCENE_76
+D: t know—finish selling this nice dad and his son a… what was it?
+D: A Jumbo-pop,
+D: A Jumbo-pop,
+S: AUTO_SCENE_77
+D: Fifteen dollars.
+D: Thank you so much. Thank you.
+D: Are you kidding me? I don
+S: AUTO_SCENE_78
+D: m sorry, pal, worst birthday ever.
+D: Thanks anyway.
+D: Keep the change,
+D: s.
+D: t thank you enough,
+S: AUTO_SCENE_79
+D: Judy said.
+D: re a great dad and just a… a real articulate fellow.
+D: Ah, well, that is high praise. It
+D: Judy said, not catching the sarcasm￼ that was evident in the fox
+S: AUTO_SCENE_80
+D: Wilde. Nick Wilde.
+D: And you, little guy, you want to be an elephant when you grow up… you be an elephant—because this is Zootopia, and anyone can be anything.
+D: s chest.
+D: Nick said, handing him the huge Jumbo-pop.
+S: AUTO_SCENE_81
+D: s a happy birthday smile! Give her a little bye-bye toot-toot.
+D: Toot-toot!
+S: AUTO_SCENE_82
+D: Oh! Hey, little toot-toot!
+S: AUTO_SCENE_83
+D: s little son get into the driver
+S: AUTO_SCENE_84
+S: AUTO_SCENE_85
+D: t believe it! Judy followed them again, this time to Savanna Central, where they set up a stand and sold
+D: at marked-up prices to lemmings￼.
+S: AUTO_SCENE_86
+S: AUTO_SCENE_87
+D: s with the color?
+D: The color? It
+S: AUTO_SCENE_88
+D: Thirty-nine… forty. There you go. Way to work that diaper￼, big guy. What, no kiss bye-bye for Daddy?
+S: AUTO_SCENE_89
+D: You kiss me tomorrow, I
+D: said Finnick in a deep voice.
+D: Finnick hopped into his van and drove off, blaring loud rap music. Judy appeared in front of Nick, her face burning with anger.
+S: AUTO_SCENE_90
+D: she yelled.
+D: s called a hustle￼, sweetheart,
+D: And I
+S: AUTO_SCENE_91
+D: Hey,
+D: All right, slick Nick, you
+S: AUTO_SCENE_92
+D: Nick smiled as he showed Judy the document.
+D: He showed her a receipt.
+D: Judy said.
+D: s right,
+S: AUTO_SCENE_93
+D: Red. Wood. With a space in the middle. Wood that is red. You can
+S: AUTO_SCENE_94
+D: ve been doing this since I was born.
+D: You
+D: said Nick.
+D: Judy replied, as if to say
+D: Nick
+S: AUTO_SCENE_95
+D: Naïve little hick￼ with good grades and big ideas decides,
+D: m gonna move to Zootopia, where predators and prey live in harmony and sing
+D: !
+D: t all get along. And that dream of being a big-city cop? Double whoopsie! She
+S: AUTO_SCENE_96
+D: re from Bunnyburrow? So let
+S: AUTO_SCENE_97
+D: Judy stood speechless. She couldn
+D: Be careful now,
+D: Or it won
+S: AUTO_SCENE_98
+D: she said, trying to pull herself together.
+D: t be! Especially not some jerk who never had the guts to try and be anything more than a pawpsicle hustler.
+D: All right, look, everyone comes to Zootopia thinking they can be anything they want. Well, you can
+S: AUTO_SCENE_99
+D: Sly￼ fox.
+D: Dumb￼ bunny.
+D: I am not a dumb bunny.
+D: Right. And that
+D: Judy looked down to see that she was ankle-deep in gooey￼ wet cement. She sighed in dismay.
+D: ll never be a real cop,
+S: AUTO_SCENE_100
+D: You
+S: AUTO_SCENE_101
+S: AUTO_SCENE_102
+S: AUTO_SCENE_103
+S: AUTO_SCENE_104
+D: Oh, hey! It
+D: she said, trying to sound upbeat.
+S: AUTO_SCENE_105
+D: Hi, sweetheart!
+D: s face popped onto the screen.
+S: AUTO_SCENE_106
+D: Yeah? Everything you ever hoped?
+D: Absolutely, and more! Everyone
+S: AUTO_SCENE_107
+D: m really making a difference—
+D: Wait a second,
+D: Holy cripes, Bonnie! Look at that!
+S: AUTO_SCENE_108
+D: Judy had forgotten she was still wearing her vest and that her hat was on the chair. She tried to backpedal￼.
+S: AUTO_SCENE_109
+D: s just a temporary—
+D: It
+D: exclaimed Bonnie happily.
+S: AUTO_SCENE_110
+D: said Stu, overjoyed.
+S: AUTO_SCENE_111
+D: chanted Stu.
+D: said Judy, feeling uncomfortable and just wanting to end the conversation.
+S: AUTO_SCENE_112
+D: s been a long day—
+D: That
+D: said Bonnie.
+D: t gonna maid￼ themselves,
+S: AUTO_SCENE_113
+D: Hey, bunny! Turn down that depressing music!
+S: AUTO_SCENE_114
+D: yelled Kudu.
+D: t you hear her conversation? She feels like a failure!
+D: Tomorrow
+S: AUTO_SCENE_115
+D: Yeah, but it might be worse!
+S: AUTO_SCENE_116
+D: As another meter dinged, Judy scribbled￼ the ticket and placed it on a tiny windshield.
+D: re a real hero, lady!
+S: AUTO_SCENE_117
+D: My mommy says she wishes you were dead.
+D: Uncool, rabbit. My tax dollars pay your salary.
+D: t start. She banged her head against the steering wheel, making the horn honk.
+S: AUTO_SCENE_118
+D: I am a real cop. I am a real cop…
+D: Hey hey!
+S: AUTO_SCENE_119
+D: she responded mechanically.
+D: re you talking about?
+S: AUTO_SCENE_120
+D: s getting away! Well! Are you a cop or not?
+D: Oh, yes,
+D: Don
+S: AUTO_SCENE_121
+D: She spotted a weasel running down the street, carrying a bag of stolen goods and jumped out of her cart.
+D: she yelled, chasing the thief.
+S: AUTO_SCENE_122
+D: shouted the weasel. McHorn screeched up in his patrol car.
+D: ve got a 10-31,
+D: s hood as she ripped off her vest and hat and shouted,
+S: AUTO_SCENE_123
+D: She chased the weasel through Savanna Central, dodging giant elephants along the way. Then the weasel ducked into the tiny community of Little Rodentia. The large cops, who had joined in the chase, couldn
+S: AUTO_SCENE_124
+D: she yelled forcefully.
+S: AUTO_SCENE_125
+S: AUTO_SCENE_126
+D: Bon voyage￼, flatfoot!
+S: AUTO_SCENE_127
+D: Hey!
+S: AUTO_SCENE_128
+D: the weasel said with a laugh as he yanked￼ a huge donut sign from the front of a shop. He flung it at Judy, but it missed and bounced toward some shrews￼ coming out of Mousy
+D: Ohmygawd, did you see those leopard-print jeggings?
+S: AUTO_SCENE_129
+D: Aaaaaaaaaaagh!
+D: I love your hair.
+D: Awww… thank you,
+S: AUTO_SCENE_130
+D: t long before the weasel, still inside the donut, rolled through the front door of the ZPD lobby and hit Clawhauser
+D: I popped the weasel!
+S: AUTO_SCENE_131
+D: Like a kid in the principal
+D: Abandoning your post, inciting a scurry, reckless endangerment of rodents… but to be fair, you did stop a master criminal from stealing two dozen… um, let
+D: Bogo looked straight at the bag on his desk that Judy had confiscated￼ from the crook she had stopped—Duke Weaselton.
+D: t onions,
+D: Those are a crocus￼ varietal called Midnicampum holicithias. They
+S: AUTO_SCENE_132
+D: said Bogo.
+D: s my job.
+D: Your job is putting tickets on parked cars.
+D: s intercom clicked as Clawhauser
+D: Chief, uh, Mrs. Otterton
+S: AUTO_SCENE_133
+D: Okay, I just didn
+D: said Clawhauser.
+D: Judy said,
+D: t want to be a meter maid. I want to be a—
+D: Do you think the mayor asked what I wanted before he assigned you to me?
+S: AUTO_SCENE_134
+D: But, sir—
+D: Life isn
+D: Just then a female otter, Mrs. Otterton, barged in with Clawhauser trailing behind, wheezing.
+S: AUTO_SCENE_135
+D: I
+D: said Clawhauser, panting.
+D: am, as I
+D: said Bogo.
+S: AUTO_SCENE_136
+D: His name is Emmitt Otterton.
+D: Yes, I know,
+D: He
+D: she added.
+D: am, our detectives are very busy.
+S: AUTO_SCENE_137
+D: s got to be somebody to find my Emmitt.
+D: s disappearance.
+S: AUTO_SCENE_138
+D: Bless you, bless you, little bunny!
+S: AUTO_SCENE_139
+D: You find my Emmitt and bring him home to me and my babies, please.
+D: Mrs. Otterton? Please wait out here.
+S: AUTO_SCENE_140
+D: You
+D: she asked.
+D: m going to open this door, and you are going to tell that otter you
+S: AUTO_SCENE_141
+D: I just heard Officer Hopps is taking the case!
+S: AUTO_SCENE_142
+D: s not tell the mayor just yet—
+D: And I sent it, and it
+D: interrupted Bellwether.
+D: d say the case is in good hands!
+S: AUTO_SCENE_143
+D: We little guys really need to stick together! Right?
+D: Like glue!
+D: Good one,
+S: AUTO_SCENE_144
+D: Just call me if you ever need anything. You
+D: am,
+S: AUTO_SCENE_145
+D: I will give you forty-eight hours,
+D: YES!
+D: That
+D: Judy couldn
+S: AUTO_SCENE_146
+D: Oh, uh…,
+D: Okay… deal,
+D: Splendid. Clawhauser will give you the complete case file,
+S: AUTO_SCENE_147
+D: Here you go!
+D: One missing otter!
+D: That
+S: AUTO_SCENE_148
+D: she said in disbelief.
+S: AUTO_SCENE_149
+D: re not in the computer system yet, so resources: none.
+D: I hope you didn
+D: he said, smiling. Judy didn
+D: Last known sighting…,
+S: AUTO_SCENE_150
+S: AUTO_SCENE_151
+D: Let me borrow that.
+D: s empty soda bottle. She looked through it, using the glass at the bottom to magnify￼ the image. Now she could see Mr. Otterton holding a frozen treat. She examined it and said thoughtfully,
+S: AUTO_SCENE_152
+D: Clawhauser said, nodding.
+D: Judy said, thinking back to the incident with Nick.
+D: asked Clawhauser.
+S: AUTO_SCENE_153
+D: Hi! Hello? It
+S: AUTO_SCENE_154
+D: s Officer Toot-Toot,
+D: Ha-ha-ho!
+D: No, actually, it
+D: m here to ask you some questions about a case.
+D: What happened, meter maid?
+S: AUTO_SCENE_155
+D: Did someone steal a traffic cone? It wasn
+D: Nick walked on, pushing the stroller around the corner. Judy pulled in front of him.
+D: re gonna wake the baby. I
+S: AUTO_SCENE_156
+D: This is important, sir. I think your ten dollars
+D: Nick faced her and raised his eyebrows￼.
+S: AUTO_SCENE_157
+D: You sold Mr. Otterton that pawpsicle, right? Do you know him?
+D: Lady, I know everybody. I also know that somewhere there
+S: AUTO_SCENE_158
+D: Judy
+D: Fine,
+D: Then we
+D: She slapped a parking boot onto the wheel of the stroller, locking it in place.
+S: AUTO_SCENE_159
+D: For what?
+D: she replied. Nick
+D: Yeah…,
+S: AUTO_SCENE_160
+D: Two hundred dollars a day… three hundred sixty-five days a year… since you were twelve. That
+D: —Judy presented some tax forms to Nick—
+D: s my word against yours,
+S: AUTO_SCENE_161
+D: s voice played from a speaker inside the pen:
+D: s your word against yours,
+D: And if you want this pen, you
+D: ll be selling pawpsicles is the prison cafeteria.
+D: It
+S: AUTO_SCENE_162
+D: She hustled you. She hustled you good. You
+D: re gonna need one of these!
+S: AUTO_SCENE_163
+D: Finnick jumped out of his stroller and walked away. Nick took the photo of Mr. Otterton and looked at it.
+D: said Judy.
+S: AUTO_SCENE_164
+D: Judy smiled broadly at him and patted the passenger seat of her cart.
+D: s go.
+D: It
+D: said Nick.
+D: t call me cute,
+D: Get in the car.
+D: Okay. You
+S: AUTO_SCENE_165
+D: Oooooooohmmmmm,
+D: Oooooooohmmmmm.
+S: AUTO_SCENE_166
+D: Hello! My name is—
+D: Oh, you know, I
+D: said Yax, who talked slowly, almost as if he wasn
+D: I am Officer Hopps, ZPD. I am looking for a missing mammal, Emmitt Otterton
+D: who may have frequented this establishment.
+S: AUTO_SCENE_167
+D: AH-CHOO!
+D: Yep, Ol
+S: AUTO_SCENE_168
+D: d be happy to take you back.
+D: Thank you so much,
+D: That would be a big—
+D: t—wearing.
+S: AUTO_SCENE_169
+D: re a Naturalist Club,
+D: Yeah, in Zootopia anyone can be anything…,
+D: and these guys, they be naked.
+D: Nanga
+D: offered Yax.
+D: Judy
+S: AUTO_SCENE_170
+D: Does this make you uncomfortable? Because there is no shame in calling it quits. We could end our deal right now.
+D: Yes, there is,
+S: AUTO_SCENE_171
+D: Boy, that
+D: joked Nick. Out in the courtyard, Judy tried to act normal. Her eyes darted around, looking for a neutral place to land.
+D: said Yax.
+S: AUTO_SCENE_172
+D: s an elephant, so she
+D: Nanga looked curiously at the newcomers.
+D: said Yax.
+S: AUTO_SCENE_173
+D: Nanga asked.
+D: Yax prompted￼.
+D: Nanga stated.
+D: s an otter, actually,
+S: AUTO_SCENE_174
+D: Member?
+D: Nope.
+D: Yeah,
+S: AUTO_SCENE_175
+D: Judy couldn
+D: No,
+S: AUTO_SCENE_176
+D: Uh, ah, you didn
+D: Judy asked.
+D: Yax nodded.
+D: Judy
+S: AUTO_SCENE_177
+D: Yax smiled.
+D: Outside the club, in Sahara Square, Nick smiled smugly.
+S: AUTO_SCENE_178
+D: ll take that pen and bid you adieu.
+D: The plate… I can
+D: m not in the system yet.
+D: Gimme the pen, please,
+S: AUTO_SCENE_179
+D: What was it you said?
+D: ? Gosh… if only there were a moron around who was up to the task…,
+D: Rabbit, I did what you asked; you can
+D: said Nick.
+S: AUTO_SCENE_180
+D: —Judy paused as she checked her phone—
+D: Nick stared at Judy, and then slowly grinned.
+D: C12 Inside the Department of Mammal Vehicles, there was a huge line of animals waiting to be helped.
+S: AUTO_SCENE_181
+D: Judy exclaimed, noticing the employees. Nick smiled.
+D: s a sloth, he can
+S: AUTO_SCENE_182
+D: Nick said innocently.
+D: Nick led Judy over to his friend, Flash, who was sitting behind the counter at one of the windows.
+D: said Nick.
+D: s nice to see ya.
+D: Nice to… see you… too,
+S: AUTO_SCENE_183
+D: Flash, I
+D: said Judy, showing her badge.
+D: Flash looked at her and didn
+S: AUTO_SCENE_184
+D: I am… doing… just—
+D: t take it.
+D: she offered, trying to move the conversation along.
+S: AUTO_SCENE_185
+D: Hang in there,
+D: … can I… do…
+D: Well, I was hoping you could run a plate—
+D: … for you …
+D: Well, I was hoping you could—
+D: … today?
+D: Well, I was hoping you could run a plate for us. We
+S: AUTO_SCENE_186
+D: Sure. What
+D: Judy began.
+S: AUTO_SCENE_187
+D: 29THD03.
+D: Two… nine…
+D: THD03,
+D: T,
+S: AUTO_SCENE_188
+D: Hey, Flash, you wanna hear a joke?
+D: No!
+S: AUTO_SCENE_189
+D: t… know. What do… you call… a—
+D: Three-humped camel,
+D: … three-humped… camel?
+D: Pregnant,
+S: AUTO_SCENE_190
+D: Ha… ha… ha… ha…
+D: s impatience grew.
+D: Flash turned toward the sloth next to him.
+S: AUTO_SCENE_191
+D: What… do… you call… a—
+D: A three-humped camel? Pregnant!
+D: Three… humped…
+S: AUTO_SCENE_192
+D: Hours after they
+D: Here you…,
+D: Yeah, yeah, yeah… thank you!
+D: … go.
+D: 29THD03,
+S: AUTO_SCENE_193
+D: It
+D: s in Tundratown— It
+D: Nick said to Flash.
+D: Judy said as she hurried through the door to get outside.
+S: AUTO_SCENE_194
+S: AUTO_SCENE_195
+D: Closed,
+D: Great.
+D: And I will bet you don
+S: AUTO_SCENE_196
+D: s a bummer￼,
+D: You wasted the day on purpose,
+D: Madam, I have a fake badge. I would never impede￼ your pretend investigation.
+D: It is not a pretend investigation!
+S: AUTO_SCENE_197
+D: She wasn
+D: What is your problem?
+S: AUTO_SCENE_198
+D: Does seeing me fail somehow make you feel better about your own sad, miserable life?
+D: It does. One hundred percent. Now… since you
+S: AUTO_SCENE_199
+D: Judy sighed, defeated￼.
+D: she said.
+D: s your pen.
+D: Hey,
+D: First off, you throw like a bunny, and second, you are a very sore loser.
+S: AUTO_SCENE_200
+D: ve helped more—
+D: The thing is,
+D: you don
+D: m pretty sure I saw a shifty￼ lowlife￼ climbing the fence, so you
+S: AUTO_SCENE_201
+D: 29THD03,
+D: This is it.
+D: refrigousine.
+S: AUTO_SCENE_202
+D: Polar bear fur,
+D: OH MY GOD!
+S: AUTO_SCENE_203
+D: exclaimed Judy, whirling to see the source of Nick
+D: The Velvety Pipes of Jerry Vole!
+S: AUTO_SCENE_204
+D: Judy rolled her eyes and went back to collecting real clues. Nick lowered the back partition, and his eyebrows shot up.
+S: AUTO_SCENE_205
+D: You ever seen anything like this?
+D: No.
+D: s driver
+S: AUTO_SCENE_206
+D: This is him! Emmitt Otterton. He was definitely here. What do you think happened?
+S: AUTO_SCENE_207
+D: Wait a minute,
+D: Polar bear fur… Rat Pack music… fancy cups…
+D: I know whose car this is. We gotta go.
+S: AUTO_SCENE_208
+D: she asked. Nick rushed around the limo, nervously trying to put everything back the way they found it.
+S: AUTO_SCENE_209
+D: ve gotta go!
+D: I
+D: said Judy.
+D: s gonna be an even bigger crime scene if Mr. Big finds me, so we are leaving right now!
+S: AUTO_SCENE_210
+D: Raymond! And is that Kevin?
+S: AUTO_SCENE_211
+D: sake?
+S: AUTO_SCENE_212
+D: Judy asked Nick.
+D: s butt,
+D: Sweet cheese and crackers,
+S: AUTO_SCENE_213
+D: Is that Mr. Big?
+S: AUTO_SCENE_214
+D: No,
+D: What about him? Is that him?
+S: AUTO_SCENE_215
+D: No,
+D: Okay, that
+D: Judy said.
+S: AUTO_SCENE_216
+D: Mr. Big, sir, this is a simple misunder—
+S: AUTO_SCENE_217
+D: This is a simple misunderstanding,
+S: AUTO_SCENE_218
+D: Mr. Big
+D: Well, actually, we were brought here against our will, so… Point is, I did not know it was your car, and I certainly did not know about your daughter
+D: Nick said, chuckling￼ nervously.
+S: AUTO_SCENE_219
+D: Mr. Big frowned and scratched his chin as he looked at Nick with cold eyes.
+S: AUTO_SCENE_220
+S: AUTO_SCENE_221
+D: What are you, a performer? What
+D: Judy tried to answer.
+S: AUTO_SCENE_222
+D: She is a mime. This mime cannot speak. You can
+D: re a mime.
+D: No,
+D: I am a cop.
+S: AUTO_SCENE_223
+D: And I
+D: m going to find out what you did to that otter if it
+D: Mr. Big considered￼ Judy and grunted.
+D: em!
+S: AUTO_SCENE_224
+D: Whoa! I didn
+D: m not saying nothing!
+D: And you never will,
+S: AUTO_SCENE_225
+D: s desk.
+S: AUTO_SCENE_226
+D: No, no, no! If you
+D: ve got more rugs!
+S: AUTO_SCENE_227
+D: Oh, Daddy, it
+D: she said. She noticed Judy and Nick and sighed,clearly annoyed.
+S: AUTO_SCENE_228
+D: Daddy has to.
+D: Ice
+D: Nick and Judy screamed.
+D: Fru Fru shouted.
+S: AUTO_SCENE_229
+D: s the bunny who saved my life yesterday. From that giant donut.
+D: This bunny?
+S: AUTO_SCENE_230
+D: Yes!
+D: Hi,
+D: Hi,
+D: I love your dress.
+D: Aw, thank you,
+S: AUTO_SCENE_231
+D: Put
+D: Then he turned to Judy.
+S: AUTO_SCENE_232
+D: Nick stood there, dumbfounded￼ … and extremely happy not to be in a pit of ice. C15 Arctic￼ animals danced as Fru Fru and her groom￼ fed each other cake. Nick and Judy looked like giants as they sat at the head table, next to Mr. Big.
+S: AUTO_SCENE_233
+D: He
+D: s why I sent that car to pick him up. But he never arrived.
+D: Because he was attacked,
+S: AUTO_SCENE_234
+D: No… he attacked,
+D: He went crazy. Ripped up the car, scared my driver half to death, and disappeared into the night.
+D: He
+D: said Judy.
+D: Nick and Judy exchanged a worried look.
+S: AUTO_SCENE_235
+D: Judy and Nick left the wedding and headed straight for the lush, humid Rainforest District in search of their next clue. As the steam trees pumped￼ a steady stream of mist into the rainforest air, Judy and Nick climbed higher and higher. They followed a winding road to a home high up in the canopy. Once the steamy fog cleared, they could see Manchas
+S: AUTO_SCENE_236
+D: Mr. Manchas?
+D: Judy Hopps, ZPD. I
+D: She knocked on the door as Nick snooped through Manchas
+S: AUTO_SCENE_237
+D: He
+D: said Nick, holding up an issue of Cat Fancy magazine.
+D: ll talk it out—
+D: Not every cat likes tuna,
+D: Oh, right, got it,
+S: AUTO_SCENE_238
+D: Buddy, I got a ball of yarn out here—
+D: Sir, my partner
+D: re not in trouble. We just want to know what happened to Emmitt Otterton.
+D: You should be asking… what happened to me,
+S: AUTO_SCENE_239
+D: Whoa. A teensy otter… did that?
+S: AUTO_SCENE_240
+D: What… happened?
+S: AUTO_SCENE_241
+D: night howlers, the night howlers,
+D: Nick and Judy shared a look.
+S: AUTO_SCENE_242
+D: said Judy, pumping￼ for more information.
+D: said Nick, picking up on Judy
+D: Absolutely. Whole ride over here we
+S: AUTO_SCENE_243
+D: Okay?
+D: You
+S: AUTO_SCENE_244
+D: Mr. Manchas?
+S: AUTO_SCENE_245
+D: Are you okay?
+S: AUTO_SCENE_246
+D: Nick asked. With a low growl, Manchas turned to them. His eyes were huge. He was SAVAGE!He raced at Nick and Judy like a primal￼ predator.
+S: AUTO_SCENE_247
+D: Judy screamed. C16 Nick and Judy ran for their lives as Manchas chased them.
+S: AUTO_SCENE_248
+D: I don
+D: They ran across a slippery suspension￼ bridge with Manchas close behind. Nick stopped.
+D: re not gonna make it!
+S: AUTO_SCENE_249
+D: Judy yelled. They leapt off the bridge and landed on a low branch. Then they ducked into a hollow log, trying to hide, but Manchas continued to stalk￼ them. Judy frantically picked up her police radio.
+S: AUTO_SCENE_250
+D: Inside the police station, Clawhauser was casually chatting with a coworker as he showed him a video on his phone.
+D: s new video—are you familiar with Gazelle?
+S: AUTO_SCENE_251
+D: s beside her right now?
+S: AUTO_SCENE_252
+D: Gazelle
+D: Benjamin Clawhauser.
+D: It
+D: Clawhauser exclaimed.
+D: s not—it
+S: AUTO_SCENE_253
+D: Hold on—
+D: Clawhauser!
+D: s voice rang out. Manchas, trying to get inside the log, took a swipe at her.
+S: AUTO_SCENE_254
+D: s Tu-HUN-ga!
+S: AUTO_SCENE_255
+S: AUTO_SCENE_256
+D: said Clawhauser, hearing the racket￼ on the other end. Nick and Judy spotted a gondola￼ station.
+D: Judy yelled.
+S: AUTO_SCENE_257
+D: s way but slipped and got separated from Nick.
+S: AUTO_SCENE_258
+D: Go!
+D: Buddy, one predator to another, if I offended you with the tuna thing, I meant no disrespe—
+S: AUTO_SCENE_259
+D: t believe it—Judy had saved his life.
+D: re tense, so I
+S: AUTO_SCENE_260
+D: s mind raced as she tried to figure out what to do next.
+S: AUTO_SCENE_261
+D: shouted Nick.
+D: m gonna let go!
+S: AUTO_SCENE_262
+D: t—
+D: One, two,
+D: RABBIT!
+S: AUTO_SCENE_263
+S: AUTO_SCENE_264
+D: Well, this should be good,
+D: I thought this was just a missing mammal case, but it
+S: AUTO_SCENE_265
+D: Bogo scoffed￼.
+D: t the Stone Age, Hopps. Animals don
+S: AUTO_SCENE_266
+D: He was right here,
+D: The
+D: jaguar,
+D: Sir, I know what I saw. He almost killed us,
+S: AUTO_SCENE_267
+D: Or maybe an aggressive predator looks savage to you rabbits,
+D: Let
+D: m not the only one who saw him!
+D: You think I
+S: AUTO_SCENE_268
+D: Two days to find the otter… or you quit… that was the deal. Badge,
+D: s outstretched hand.
+S: AUTO_SCENE_269
+D: Uh, no,
+D: What did you say,fox?
+D: Sorry, what I said was
+D: She will not be giving you that badge,
+D: Look, you gave her a clown vest and a three-wheel joke-mobile￼ and two days to solve a case you guys haven
+S: AUTO_SCENE_270
+D: Judy stared at Nick. She couldn
+S: AUTO_SCENE_271
+D: Here
+D: s exactly what we are gonna do. So if you
+S: AUTO_SCENE_272
+D: Officer Hopps?
+D: Thank you,
+D: Never let them see that they get to you,
+S: AUTO_SCENE_273
+D: said Nick.
+D: said Judy.
+D: s true. I think I was eight, maybe nine, and all I wanted to do was join the Junior Ranger Scouts￼.
+D: So my mom scraped together enough money to buy me a brand-new uniform.
+D: I was gonna be part of a pack,
+S: AUTO_SCENE_274
+D: Get him! Get that pred! Muzzle￼ him!
+S: AUTO_SCENE_275
+D: If you thought we
+D: re even dumber than you look,
+D: I learned two things that day,
+D: One, I was never going to let anyone see that they got to me.
+D: And two?
+S: AUTO_SCENE_276
+D: If the world
+D: s no point trying to be anything else.
+D: Nick,
+D: You are so much more than that.
+D: Boy, look at that traffic down there,
+D: How about we go to Chuck in Traffic Central,
+S: AUTO_SCENE_277
+D: m glad you told me,
+D: Wait! The Jam Cams!
+D: Seriously, it
+S: AUTO_SCENE_278
+D: N-no, shh-shush! There are traffic cameras everywhere. All over the canopy. Whatever happened to that jaguar—
+D: The traffic cameras would have caught it!
+S: AUTO_SCENE_279
+D: Bingo!
+D: Pretty sneaky, Slick.
+D: However. If you didn
+S: AUTO_SCENE_280
+D: Judy smiled, feeling hopeful again. C18 It didn
+D: Sir?
+S: AUTO_SCENE_281
+D: If we could just review these very important—
+D: Oh, I
+D: said Lionheart impatiently.
+S: AUTO_SCENE_282
+D: And clear my afternoon. I
+D: Lionheart continued through the door, letting it slam right in Bellwether
+D: Oh, mutton chops,
+D: Assistant Mayor Bellwether,
+S: AUTO_SCENE_283
+D: We need your help.
+D: s office was actually a janitor￼
+D: We just need to get into the traffic camera database,
+D: s head and whispered,
+S: AUTO_SCENE_284
+D: He was mesmerized￼.
+D: t touch that! Stop it!
+S: AUTO_SCENE_285
+D: Bellwether asked as she pulled up traffic cameras for the whole city. She looked up at Judy, catching the rabbit in mid-swat.
+S: AUTO_SCENE_286
+D: This is so exciting, actually. Well, you know, I never get to do anything this important,
+D: You
+D: said Judy.
+D: m more of a glorified￼ secretary,
+D: I think Mayor Lionheart just wanted the sheep vote… But he did get me that nice mug.
+S: AUTO_SCENE_287
+D: Smellwether!
+D: Oh, that
+S: AUTO_SCENE_288
+D: t care for that.
+D: Yes, sir?
+D: I thought you were going to cancel my afternoon!
+S: AUTO_SCENE_289
+D: re young, Smellwether!
+D: s voice boomed again as she opened the door and hurried out.
+D: m gonna need a lint￼ brush,
+D: Oh shush,
+S: AUTO_SCENE_290
+D: Okay. Traffic cameras. Tujunga, Tujunga… we
+D: Nick and Judy watched the footage￼ onscreen. They saw Manchas acting wild, and then… a black van pulled up, skidding to a stop.
+S: AUTO_SCENE_291
+D: Judy asked.
+D: They watched as wolves got out of the van and trapped Manchas with a net! Judy gasped, but Nick just shook his head.
+D: s gonna howl,
+S: AUTO_SCENE_292
+D: There it is. What is with wolves and howling?
+S: AUTO_SCENE_293
+D: said Judy.
+D: s what Manchas was afraid of—wolves!The wolves are the night howlers. If they took Manchas—
+D: I bet they took Otterton, too,
+D: All we
+D: said Judy, examining the footage. As the wolves drove off, they disappeared through a tunnel and didn
+S: AUTO_SCENE_294
+D: d they go?
+D: You know, if I wanted to avoid surveillance￼ because I was doing something illegal—which I never have—I
+D: Nick clicked over to another camera
+D: Right there.
+D: Look at you,
+D: Junior Detective. You know, I think you
+S: AUTO_SCENE_295
+D: They
+D: she said.
+D: s one of two places: it
+S: AUTO_SCENE_296
+D: Why couldn
+S: AUTO_SCENE_297
+D: s attention.
+S: AUTO_SCENE_298
+D: It was Judy, hidden beneath the cliffs! Hearing the sound, the wolf couldn
+D: Quit it, Gary. You
+S: AUTO_SCENE_299
+D: said Gary. Unable to control it, the other guard howled back. Soon more and more wolves joined in, howling away. Judy whispered to Nick,
+S: AUTO_SCENE_300
+D: Clever bunny,
+S: AUTO_SCENE_301
+D: Looks like this was a hospital,
+D: You know, after you,
+D: You
+S: AUTO_SCENE_302
+D: Claw marks?
+S: AUTO_SCENE_303
+D: Yeah, huge, huge claw marks. But what kind of anima—
+S: AUTO_SCENE_304
+D: Mr. Manchas,
+D: It
+S: AUTO_SCENE_305
+D: We found our otter.
+D: Mr. Otterton, my name is Officer Judy Hopps. Your wife sent me to find you. We
+S: AUTO_SCENE_306
+D: Or not,
+D: Guess he
+D: Judy looked down the corridor of cells, counting,
+D: She thought for a moment, then said,
+S: AUTO_SCENE_307
+D: Enough!
+D: I don
+S: AUTO_SCENE_308
+D: Mayor Lionheart, please,
+D: We
+D: t think you are,
+D: Because I got a dozen and a half animals here who
+D: t tell me why. I
+S: AUTO_SCENE_309
+D: Biology, Doctor? Spare me.
+D: We both know what they all have in common. We can
+S: AUTO_SCENE_310
+D: What do you think will happen if the press gets ahold of￼ this?
+D: What does Chief Bogo think?
+D: Chief Bogo doesn
+S: AUTO_SCENE_311
+D: s phone broke the silence. It was her parents calling. Lionheart looked up, startled.
+S: AUTO_SCENE_312
+D: said the doctor.
+D: Nick and Judy ran as an alarm blared￼ throughout the asylum. Wolves swarmed the halls.
+D: re dead. That
+S: AUTO_SCENE_313
+D: m dead. You
+D: s dead,
+D: Can you swim?
+S: AUTO_SCENE_314
+D: What? Can I swim? Of course. Why?
+S: AUTO_SCENE_315
+S: AUTO_SCENE_316
+D: He sighed when he saw her emerge from the water, holding her bagged phone over her head.
+D: ve got to tell Bogo.
+D: s office.
+S: AUTO_SCENE_317
+D: You don
+D: shouted Lionheart.
+D: Judy continued.
+S: AUTO_SCENE_318
+D: Lionheart exclaimed. Later on, Bogo addressed the press. Behind him were posters of the savage animals—each one of them sporting a muzzle.
+D: said Bogo.
+S: AUTO_SCENE_319
+D: Okay, Press Conference 101,
+D: You wanna look smart, answer their questions with your own rhetorical￼ questions. Then answer that question. Okay like this,
+S: AUTO_SCENE_320
+D: You should be up there with me. We did this together,
+D: Well, am I a cop? No. No, I
+S: AUTO_SCENE_321
+D: Funny you should say that… because I
+D: said Judy, handing Nick an application to the ZPD. She offered the carrot pen to him.
+S: AUTO_SCENE_322
+D: Officer Hopps, it
+D: Nick looked down at the application, clicked the pen, and began filling it out. As Judy stepped up, Bogo saluted￼ her. She saluted back, and then the reporters started shouting out her name and asking questions. Judy pointed to one of them.
+S: AUTO_SCENE_323
+D: the reporter asked.
+S: AUTO_SCENE_324
+D: Okay, what
+D: shouted another reporter.
+D: re all members of the predator family,
+S: AUTO_SCENE_325
+D: So predators are the only ones going savage?
+D: That is accurate,
+S: AUTO_SCENE_326
+D: Yes.
+D: Why is that happening?
+D: We still don
+D: The crowd rumbled￼ with disappointment.
+D: said Judy, surprised by the escalating￼ tension in the room. Murmurs rippled across the press and a reporter asked,
+S: AUTO_SCENE_327
+D: Judy said.
+S: AUTO_SCENE_328
+D: Thousands of years ago… predators survived through their aggressive hunting instincts. For whatever reason, they
+D: Her comment caused a big hubbub￼. Nick didn
+S: AUTO_SCENE_329
+D: Officer Hopps, could it happen again?
+D: It is possible,
+D: We must be vigilant￼. And we at the ZPD are prepared and are here to protect you.
+S: AUTO_SCENE_330
+D: and
+D: Bellwether stepped up, eager to put an end to the questions.
+D: t—
+S: AUTO_SCENE_331
+D: That went so fast. I didn
+D: said Nick, interrupting her.
+D: Judy asked, confused.
+D: s a biological component,
+D: These predators may be reverting back to their primitive savage ways.
+S: AUTO_SCENE_332
+D: Are you serious?
+D: I just stated the facts of the case,
+D: I mean, it
+D: re not like them.
+D: There
+S: AUTO_SCENE_333
+D: re not that kind of predator.
+D: The kind that needs to be muzzled? The kind that makes you think you need to carry around fox repellent? Yeah, don
+D: t notice that little item the first time we met.
+S: AUTO_SCENE_334
+S: AUTO_SCENE_335
+D: I knew it. Just when I thought somebody actually believed in me,
+D: Probably best if you don
+D: As he walked away, he took off the sticker badge, crumpled it up, and tossed it into the trash.
+S: AUTO_SCENE_336
+S: AUTO_SCENE_337
+D: Go back to the forest, predator!
+D: I
+S: AUTO_SCENE_338
+D: The Zootopia I know is better than this. We don
+S: AUTO_SCENE_339
+D: Judy felt exhausted by all the fighting—and she also felt responsible. She rode the subway on her way into work. There she watched a mother bunny pull her child to her as a lion boarded the train, and Judy shook her head. Judy got off at the next stop and went into the hospital.
+D: s not my husband,
+S: AUTO_SCENE_340
+S: AUTO_SCENE_341
+D: Come on, Hopps.The new mayor wants to see us.
+D: The mayor? Why?
+D: It would seem you
+S: AUTO_SCENE_342
+D: Clawhauser? What
+D: she asked.
+D: t the first face you see when you walk into the ZPD. So they
+S: AUTO_SCENE_343
+D: he said. Judy
+D: Hopps. Now!
+S: AUTO_SCENE_344
+D: ZPD, Put Your Trust in Us.
+D: I don
+D: said Bellwether.
+D: re just really scared. You
+S: AUTO_SCENE_345
+D: s why Chief Bogo and I want you to be the public face of the ZPD.
+D: I
+D: m not a hero,
+D: I came here to make the world a better place, but I think I broke it.
+D: Don
+D: said Bogo.
+D: s why we need good cops like you.
+D: With all due respect, sir, a good cop is supposed to serve and protect—help the city, not tear it apart￼,
+S: AUTO_SCENE_346
+D: I don
+D: said Bogo.
+D: ve always wanted. Since you were a kid… you can
+D: said Bellwether.
+S: AUTO_SCENE_347
+D: Four dozen carrots,
+D: Have a nice day.
+S: AUTO_SCENE_348
+D: ?
+D: I
+D: said Bonnie.
+S: AUTO_SCENE_349
+D: Judy asked.
+D: re a trier, that
+D: said Stu.
+D: ve always been a trier,
+D: Yeah. I tried, and I made life so much worse for so many innocent predators.
+D: Oh, not all of them, though,
+S: AUTO_SCENE_350
+D: Beep! A horn blared as a bakery truck pulled up to the stand. Judy
+D: Is that… Gideon Grey?
+S: AUTO_SCENE_351
+D: Yep. It sure is,
+D: We work with him now.
+D: He
+D: d never have considered it had you not opened our minds,
+D: That
+S: AUTO_SCENE_352
+D: Gid
+D: The fox in question climbed out of his truck.
+D: said Judy.
+D: ll be darned.
+D: Hey, Judy,
+D: I
+S: AUTO_SCENE_353
+D: said Judy.
+D: said Gideon, holding them up. Kid bunnies ran across the field, beelining￼ it for the pies.
+S: AUTO_SCENE_354
+D: Don
+D: s a four-dollar word, Mr. H. My family always just called them night howlers,
+S: AUTO_SCENE_355
+D: What did you say?
+D: Oh, Gid
+S: AUTO_SCENE_356
+D: t like the little ones going near them on account of your Uncle Terry.
+D: Yeah, Terry ate one whole when we were kids and went completely nuts,
+D: He bit the dickens out of your mother,
+D: A bunny can go savage…,
+D: Savage? Well, that
+S: AUTO_SCENE_357
+D: There
+D: d call that savage,
+D: Night howlers aren
+S: AUTO_SCENE_358
+D: s it.That
+D: ve been missing.
+S: AUTO_SCENE_359
+D: Stu tossed her the keys to his pickup truck and Judy jumped in.
+S: AUTO_SCENE_360
+D: Night howlers aren
+D: re toxic￼ flowers. I think someone is targeting predators on purpose and making them go savage.
+D: Wow,
+D: Isn
+S: AUTO_SCENE_361
+D: He got up and walked off, but Judy followed.
+D: ll never forgive me. And I don
+S: AUTO_SCENE_362
+D: t suffer because of my mistakes. I have to fix this, but I can
+D: Nick sighed but still refused to look at her.
+D: re done, you can hate me, and that
+D: Nick didn
+S: AUTO_SCENE_363
+D: I really am just a dumb bunny. I really am just a dumb bunny.
+D: Cheer up, Carrots. I
+D: Judy
+S: AUTO_SCENE_364
+D: All right, get in here.
+D: You bunnies are so emotional,
+S: AUTO_SCENE_365
+D: Nick and Judy climbed into the pickup truck.
+D: said Nick, grabbing a basket of blueberries and popping a few into his mouth.
+S: AUTO_SCENE_366
+D: re gonna follow the night howlers. Know this guy?
+D: I know everybody,
+D: Anything you need… I got it,
+S: AUTO_SCENE_367
+D: t even been released yet!
+D: Well, well, look who
+D: Nick said, walking up to him.
+D: s it to you, Wilde? Shouldn
+S: AUTO_SCENE_368
+D: Weaselton recognized Judy.
+D: t Flopsy the Copsy.
+D: We both know those weren
+D: said Judy.
+D: s Weaselton! Duke Weaselton. And I ain
+S: AUTO_SCENE_369
+D: t nothing you can do to make me.
+D: s place.
+D: im,
+S: AUTO_SCENE_370
+D: You dirty rat! Why you helping her? You know she
+S: AUTO_SCENE_371
+D: Mr. Big motioned for his polar bears to wait as they dangled Weaselton over the pit.
+D: Fru Fru emerged from the other room, showing off her pregnant belly.
+D: m going to name her Judy,
+D: Aw,
+S: AUTO_SCENE_372
+D: Ice this weasel,
+D: Wait! Stop! I
+S: AUTO_SCENE_373
+D: screamed Weaselton.
+D: asked Judy.
+S: AUTO_SCENE_374
+D: t exactly friendly.
+D: s instructions and found the drop: an old subway car in an abandoned station. They hid as two tough rams￼ exited the car. Once the rams were gone, Nick lifted Judy and she pushed open the window to peek inside.
+D: t lying,
+S: AUTO_SCENE_375
+D: Yeah, looks like old Doug
+S: AUTO_SCENE_376
+D: s phone rang and he held it to his ear.
+S: AUTO_SCENE_377
+D: s the mark￼? Cheetah in Sahara Square. Got it.
+D: Yeah, I know they
+S: AUTO_SCENE_378
+S: AUTO_SCENE_379
+D: Yeah, I
+D: s done. Or you
+S: AUTO_SCENE_380
+D: Hey, Doug, open up,
+S: AUTO_SCENE_381
+D: What are you doing?
+D: We need to get this evidence to the ZPD,
+S: AUTO_SCENE_382
+D: Okay. Got it,
+D: No. All of it,
+S: AUTO_SCENE_383
+D: Nick said.
+D: re a conductor now? Listen. It would take a miracle to get this rust bucket going.
+D: Oh, hallelujah,
+S: AUTO_SCENE_384
+D: Mission accomplished. Would it be premature￼ for me to do a little victory toot-toot?
+S: AUTO_SCENE_385
+D: All right,
+D: One toot-toot.
+S: AUTO_SCENE_386
+S: AUTO_SCENE_387
+D: Maybe that
+S: AUTO_SCENE_388
+D: Speed up, Nick! Speed up!
+S: AUTO_SCENE_389
+D: Are you crazy? There
+S: AUTO_SCENE_390
+D: A split second before the trains crashed into each other, Judy kicked the ram into a track-switch lever￼, and the train car they were riding in changed tracks! Then the subway car derailed￼, and Judy and Nick dove out onto a platform. The car exploded, and all its contents, including the night howlers, burned to a crisp.
+D: s gone. We lost it all,
+S: AUTO_SCENE_391
+D: Yeah,
+D: except for this.
+D: There it is!
+S: AUTO_SCENE_392
+D: Judy! Judy!
+S: AUTO_SCENE_393
+D: Mayor Bellwether!
+D: We found out what
+D: s darting￼ predators with a serum—that
+D: s making them go savage.
+D: I am so proud of you, Judy. You did such a super job,
+S: AUTO_SCENE_394
+D: Thank you, ma
+D: asked Judy.
+D: ll go ahead and take that case now,
+S: AUTO_SCENE_395
+D: Judy turned to go, but the sheep blocked their way. Why wouldn
+S: AUTO_SCENE_396
+D: Get them!
+D: t see the woolly mammoth tusk sticking out in front of her, and ran right into it. Judy screamed in pain as the tusk slashed her leg and knocked her off her feet.
+S: AUTO_SCENE_397
+D: shouted Nick. Nick rushed to her. Her leg was bleeding badly. He carried her behind a pillar.
+S: AUTO_SCENE_398
+D: A few blueberries rolled out from Nick
+D: Blueberry?
+D: Pass,
+D: Come on out, Judy!
+S: AUTO_SCENE_399
+D: Take the case,
+D: Get it to Bogo.
+D: I
+D: s not happening,
+D: I can
+D: said Judy.
+D: ll think of something,
+S: AUTO_SCENE_400
+D: We
+D: said Bellwether, trying to get Judy to surrender.
+D: she went on.
+S: AUTO_SCENE_401
+D: ll be unstoppable.
+D: Over there!
+S: AUTO_SCENE_402
+D: s grip and sending them both into a sunken diorama￼. Bellwether looked over the edge from above.
+D: asked Judy.
+S: AUTO_SCENE_403
+D: said Bellwether, gesturing to Nick. She took the dart gun out of the case and aimed at Nick. Thwick! The dart sank into Nick
+S: AUTO_SCENE_404
+D: Judy yelled. Nick started to shake and crouched over as Bellwether dialed her phone.
+S: AUTO_SCENE_405
+D: There
+S: AUTO_SCENE_406
+D: No. Nick,
+D: Don
+D: t help it, can he?
+S: AUTO_SCENE_407
+D: Since preds are just biologically predisposed￼ to be savages.
+D: Gosh, think of the headline:
+D: So that
+S: AUTO_SCENE_408
+D: Pretty much,
+D: It won
+D: said Judy.
+D: said Bellwether.
+D: ll dart every predator in Zootopia to keep it that way.
+D: Bye-bye, bunny,
+S: AUTO_SCENE_409
+D: Blood, blood, blood!
+D: And death.
+S: AUTO_SCENE_410
+D: All right, you know, you
+D: Nick said.
+S: AUTO_SCENE_411
+D: Bellwether said, trying to figure out what was going on. Nick held up the ball of serum, then gestured to the gun.
+D: he said.
+D: s right here.
+D: What you
+S: AUTO_SCENE_412
+D: s farm,
+D: They are delicious. You should try some.
+S: AUTO_SCENE_413
+D: s my word against yours!
+D: Oh, yeah, actually…,
+D: s voice played back:
+D: ll dart every predator in Zootopia to keep it that way…
+D: … it
+S: AUTO_SCENE_414
+D: It
+D: they said together. C27 The next day, all the news channels aired footage of Bellwether in an orange jumpsuit, being led to jail.
+S: AUTO_SCENE_415
+D: Her predecessor, Leodore Lionheart, denies any knowledge of her plot, claiming he was just trying to protect the city,
+D: A reporter interviewed Lionheart from jail.
+D: Did I falsely imprison those animals? Well, yes. Yes, I did. Classic
+S: AUTO_SCENE_416
+D: answered the reporter, deadpan￼. Back in the studio, the newscaster continued.
+S: AUTO_SCENE_417
+D: Thank you,
+S: AUTO_SCENE_418
+D: When I was a kid, I thought Zootopia was this perfect place where everyone got along and anyone could be anything… Turns out, real life
+S: AUTO_SCENE_419
+S: AUTO_SCENE_420
+S: AUTO_SCENE_421
+D: All right! Enough! Shut it!
+S: AUTO_SCENE_422
+D: We have some new recruits with us this morning,
+D: Including our first fox. But… who cares?
+D: You should have your own line of inspirational greeting cards, sir,
+S: AUTO_SCENE_423
+D: Shut your mouth, Wilde,
+D: Hopps, Wilde… Skunk Pride Parade. Dismissed.
+D: Fun,
+D: Funny guy.
+D: Parade detail is a step up from parking duty,
+S: AUTO_SCENE_424
+D: t. C28
+D: asked Nick. Judy slammed on the brakes, causing Nick to lurch￼ forward, accidentally jamming his pawpsicle into his face.
+S: AUTO_SCENE_425
+D: she said.
+D: said Nick, wiping his face.
+D: said Nick.
+S: AUTO_SCENE_426
+S: AUTO_SCENE_427
