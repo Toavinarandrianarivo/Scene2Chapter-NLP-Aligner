@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "book-script-aligner"
+version = "0.1.0"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+sentence-transformers = "*"
+rapidfuzz = "*"
+Levenshtein = "*"
+pandas = "*"
+numpy = "*"
+tqdm = "*"
+regex = "*"

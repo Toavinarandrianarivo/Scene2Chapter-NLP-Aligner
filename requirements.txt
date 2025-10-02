@@ -1,0 +1,9 @@
+sentence-transformers
+rapidfuzz
+python-Levenshtein
+numpy
+pandas
+tqdm
+regex
+matplotlib
+seaborn
